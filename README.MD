@@ -1,4 +1,5 @@
 # Picasso Anonim Chat Bot
+Telegram - @picasso_anonim_bot
 
 Picasso Anonim Chat Bot, Telegram platformunda kullanıcıların birbirleriyle anonim olarak sohbet etmelerini sağlayan bir bot projesidir. MySQL veritabanı kullanarak kullanıcı verilerini ve eşleşmeleri yönetir. Kullanıcılar cinsiyet, yaş gibi temel profil bilgilerini ayarlayabilir ve tercihlerine göre eşleşme yapabilirler.
 
